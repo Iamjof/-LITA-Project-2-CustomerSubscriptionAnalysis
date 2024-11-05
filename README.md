@@ -31,4 +31,4 @@ Shown Here:
 -  Find the top 3 regions by subscription cancellations. 
 -  find the total number of active and canceled subscriptions.
 
-  Result Here.
+  Result Here.[
