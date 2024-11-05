@@ -32,3 +32,10 @@ Shown Here:
 -  find the total number of active and canceled subscriptions.
 
   Result Here.[https://github.com/Iamjof/-LITA-Project-2-CustomerSubscriptionAnalysis/blob/main/LITA%20Project%202.sql]
+
+### Power BI: 
+- Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
+
+Shown below
+
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/47da80d1-c996-4275-b527-0fe696495585">
